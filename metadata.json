@@ -1,0 +1,6 @@
+{
+  "name": "Yearning",
+  "description": "A cinematic nocturnal sanctuary for yearners worldwide with ambient melodies and evocative soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
